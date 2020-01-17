@@ -1,5 +1,6 @@
 ## Your Name
 
+I'm a full-stack Ruby developer. 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
 ## Skills
@@ -23,18 +24,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (December 2019 - April 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### SOAS, University of London (2013 - 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA Politics and Development Studies (2:1)
+- Modules: Politics of Gender, Risk and Security, Development and Conflict, Hindi, Political Theory, Islam and Democracy
+- President of the SOAS Beekeeping Society
 
 #### Any other qualifications
 
@@ -42,14 +43,18 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Fizzbox** (February 2018 - December 2019)    
+*Digital Content Executive*  
+- Using the in-house CMS
+- Working with a range of stakeholders from the photographer and graphic designer to PR and Sales to ensure content is engaging, relevant and on brand
+- Maintain the company’s content plan with a view to maximising SEO goals, UX and ultimately sales conversions.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Marks and Spencer** (June 2017 - January 2018)   
+*Visual Merchandiser*  
 - Any experience relevent to software development
 
 ## Hobbies
-
+- Gardening
+- Reading
+- 
 Any cool stuff that makes you a super part of a software development team
